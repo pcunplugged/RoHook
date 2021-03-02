@@ -17,3 +17,12 @@ Arsenal made by Ro-Hook (WIP)
 ## Download
 
 [Download Here!](http://anthargo.com/7eK2)
+
+
+### Changelogs
+
+```
+Updated the Soul Shatters Cheat.
+Made the Soul Shatters Cheat Private
+Updated the loader to be slightly faster.
+```
