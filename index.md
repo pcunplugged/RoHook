@@ -16,4 +16,4 @@ Arsenal made by Ro-Hook (WIP)
 
 ## Download
 
-[Download](http://anthargo.com/7eK2)
+[Download Here!](http://anthargo.com/7eK2)
