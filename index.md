@@ -22,6 +22,7 @@ Arsenal made by Ro-Hook (WIP)
 ### Changelogs
 
 ```
+Update 0.0.B
 Updated the Soul Shatters Cheat.
 Made the Soul Shatters Cheat Private
 Updated the loader to be slightly faster.
