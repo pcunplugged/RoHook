@@ -25,6 +25,7 @@ Dust: Wasteland Survival made by Ro-Hook (WIP)
 ## Download
 
 [Download Here!](http://anthargo.com/7eK2)
+Note: Click "Block" on the click allow to continue pages! It will take you to the download after a little bit.
 
 
 ### Changelogs
