@@ -33,8 +33,7 @@ Dust: Wasteland Survival made by Ro-Hook (WIP)
 
 ```
 3/3/21
-Update Soul-!
-Hook 0.0.C
+Update Soul-Hook 0.0.C
 Removed Stamina and Mana Regen Multipliers because it was impossible.
 Fixed ESP
 Started work on Dust-Hook 0.0.A
