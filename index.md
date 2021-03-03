@@ -20,9 +20,7 @@ Dust: Wasteland Survival made by Ro-Hook (WIP)
 
 ### Features
 
-```
-
-```
+[Feature List](https://pcunplugged.github.io/RoHook/features.html)
 
 ## Download
 
