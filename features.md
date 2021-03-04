@@ -44,7 +44,7 @@ Auto Sprint (Keybind)
 Customizable ESP (Ugly esp made by Ro-Hook)
 ```
 
-Bad Business
+Bad Business (WIP)
 ```
 No Recoil
 No Sway
@@ -58,7 +58,7 @@ Grenade Aimbot
 
 ```
 
-Dust: Wasteland Survival
+Dust: Wasteland Survival (WIP)
 ```
 Ore ESP -
 Sulfur 2D Box ESP with custom colors
@@ -83,4 +83,4 @@ Tree and Ore Auto Farm
 
 ## Download
 
-[Download Here!](http://anthargo.com/7eK2)
+[Download Here!](http://blaleela.com/12zl)
