@@ -2,8 +2,6 @@
 
 [Back](https://pcunplugged.github.io/RoHook/)
 
-## Ro-Hook Feature List
-
 ### Game List
 
 Phantom Forces
